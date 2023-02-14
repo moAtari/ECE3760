@@ -1,8 +1,8 @@
 # ECE3760
 
-The purpose of this repo is to help me keep track on the project.
+The purpose of this repo is to help us keep track on the project.
 
-## Contributors
+## Team Members
 - Mohammad Atari 
 - Antony Zaky
 - Corben Kolaski
